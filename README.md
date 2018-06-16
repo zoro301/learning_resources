@@ -45,23 +45,23 @@ http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
 前人踩过的坑。自己也踩到过或者未来会踩到。  
 《97 things every programmer should know》
 
-《代码大全》
-《java核心技术（卷1）》
-《Spring in action》
-《Spring Boot 实战》
-《鸟哥的Linux私房菜》
-《Mysql必知必会》
-《重构：改善既有代码的设计》
-《修改代码的艺术》
-《代码整洁之道》
-《Effective Java》
-《Java 并发编程实战》
-《Java性能权威指南》
-《深入理解Java虚拟机》
-《设计模式》
-《算法》
-《算法图解》
-《算法导论》
-《编程珠玑》
-《计算机网络》
-《编译原理》
+《代码大全》  
+《java核心技术（卷1）》  
+《Spring in action》  
+《Spring Boot 实战》  
+《鸟哥的Linux私房菜》  
+《Mysql必知必会》  
+《重构：改善既有代码的设计》  
+《修改代码的艺术》  
+《代码整洁之道》  
+《Effective Java》  
+《Java 并发编程实战》  
+《Java性能权威指南》  
+《深入理解Java虚拟机》  
+《设计模式》  
+《算法》  
+《算法图解》  
+《算法导论》  
+《编程珠玑》  
+《计算机网络》  
+《编译原理》  
