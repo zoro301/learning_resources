@@ -1,0 +1,9 @@
+1.泛型擦除
+2.<? extends T> 和  <? super T> 区别
+3.Comparable 和 Comparator
+
+锁（ReentrantLock实现，公平锁，非公平锁，偏向锁，轻量级锁，重量级锁，锁优化）
+线程同步(CAS,AQS,volatile,信号量同步)
+ThreadLocal(注意事项，如每次用完执行remove()方法，不执行会如何)
+线程间通信
+线程池（JDK4中线程池，线程池拒绝策略等）
